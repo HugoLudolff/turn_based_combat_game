@@ -20,6 +20,7 @@ def battle_goblin():
         goblin_vida-=dano_player
         time.sleep(1)
         player_vida = player_vida - goblin_turn(PLAYER_ARMOR)
+        time.sleep(1)
         print(f'Your health is {player_vida}')
         print(f'Goblin health is {goblin_vida}')
         time.sleep(1)
@@ -45,6 +46,7 @@ def battle_orc():
         orc_vida-=dano_player
         time.sleep(1)
         player_vida = player_vida - orc_turn(PLAYER_ARMOR)
+        time.sleep(1)
         print(f'Your health is {player_vida}')
         print(f'Orc health is {orc_vida}')
         time.sleep(1)

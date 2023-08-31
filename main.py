@@ -1,8 +1,3 @@
-# Import random to simulate dice rolls #
-import random
-# import time to add a delay between the turns #
-import time
-
 from menus import menu
 from goblin import *
 from orc import *

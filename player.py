@@ -6,7 +6,7 @@ from menus import menu_batalha
 PLAYER_HEALTH = 1000
 SWORD_DAMAGE = 20
 MAGIC_DAMAGE = 45
-PLAYER_ARMOR = 10
+PLAYER_ARMOR = 50
 
 # Function called when the player selects to attack with a sword #
 def sword_attack(enemy_defense):

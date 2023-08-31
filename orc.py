@@ -2,7 +2,7 @@ import random
 
 
 ORC_MAX_HEALTH = 1000  
-ORC_DAMAGE = 20
+ORC_DAMAGE = 30
 ORC_DEFENSE = 70
 # Function called when the orc attacks #
 def orc_attack(player_defense):
