@@ -2,7 +2,6 @@ import time
 from player import *
 from goblin import *
 from orc import *
-from enemy_selector import *
 from menus import menu_inimigo
 
 

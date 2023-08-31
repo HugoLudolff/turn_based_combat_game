@@ -3,7 +3,6 @@ import random
 # import time to add a delay between the turns #
 import time
 
-from enemy_selector import *
 from menus import menu
 from goblin import *
 from orc import *
