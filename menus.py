@@ -20,10 +20,11 @@ def menu_batalha():
 
 def menu_inimigo():
     menu_inimigo = """
-======INIMIGO=======
-escolha um inimigo para lutar!
+====== ENEMY =======
+Pick an enemy to fight!
 
-[1] - Orc
-[2] - Goblin
+[1] - Goblin
+[2] - Orc
+[3] - Quit
 --> """
     return input(menu_inimigo)
